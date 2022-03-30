@@ -1,13 +1,1 @@
-Concepts Learned:
-
-
-
-1. d
-2. d
-3. d
-4. dd
-5. d
-6. d
-7. d
-8. d
-9. 
+[Notebook](https://colab.research.google.com/drive/1z1ydKVvc6xFgli-4jaln8dxSPjiy22G5?usp=sharing)
